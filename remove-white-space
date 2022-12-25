@@ -1,0 +1,14 @@
+public class remove_function {
+    public static void main(String[] args) {
+        String a="Hello World";
+         a=a.replaceAll("\\s+","");
+         String b="Happy Faces";
+         b=b.replaceAll("\\s+","");
+         String c="Sunny Day";
+         c=c.replaceAll("\\s+","");
+         String d="Good Morning";
+         d=d.replaceAll("\\s+","");
+
+        System.out.printf(" %s\n %s\n %s\n %s\n",a,b,c,d);
+    }
+}
