@@ -1,0 +1,9 @@
+public class marks_detail {
+    public static void main(String[] args) {
+        int a=78;
+        int b=95;
+        int c=89;
+        System.out.println("Total marks = " + (a+b+c));
+        System.out.println("persentage marks =" + (a+b+c)/3 +"%");
+    }
+}
