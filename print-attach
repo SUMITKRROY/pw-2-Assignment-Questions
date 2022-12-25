@@ -1,0 +1,7 @@
+public class TAKE_DIFF_INPUT {
+    public static void main(String[] args) {
+        String a="level";
+        String b="up";
+        System.out.println(a+b);
+    }
+}
